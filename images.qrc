@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>calc.png</file>
+    </qresource>
+    <qresource prefix="/background">
+        <file>Backgrounds_On_blue_background_wallpaper_082199_.jpg</file>
+        <file>nastol.com.ua-79609.jpg</file>
+        <file>Безымянный.png</file>
+        <file>1.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>2.jpg</file>
+    </qresource>
+</RCC>
